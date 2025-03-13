@@ -14,9 +14,9 @@ A full-featured eCommerce application built using **Spring Boot**, **Spring Data
   
 ## 📸 Screenshots
 ### **Swagger Documentation **
-![swagger-images](swagger-images/1.png)
-![swagger-images](swagger-images/2.png)
-![swagger-images](swagger-images/3.png)
+![swagger-images](swagger-images/1.PNG)
+![swagger-images](swagger-images/2.PNG)
+![swagger-images](swagger-images/3.PNG)
 ### **Database Schema**
 ![database-schema](swagger-images/ecommerceschema.png)
 
@@ -76,14 +76,5 @@ A full-featured eCommerce application built using **Spring Boot**, **Spring Data
 - **Spring Data JPA** – ORM & database management
 - **JavaMail** – Email notifications
 - **Logger** – Logging and error tracking
-
-## 👨‍💻 Contributing
-
-Feel free to fork the repo, open issues, and submit PRs!
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
+  
 🚀 Developed by **Mohamed Amgad**
