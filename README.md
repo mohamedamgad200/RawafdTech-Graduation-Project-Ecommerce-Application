@@ -16,7 +16,7 @@ A full-featured eCommerce application built using **Spring Boot**, **Spring Data
 ### **Swagger Documentation **
 ![swagger-images](swagger-images/1.PNG)
 ![swagger-images](swagger-images/2.PNG)
-![swagger-images](swagger-images/3.PNG)
+![swagger-images](swagger-images/3.PNG.PNG)
 ### **Database Schema**
 ![database-schema](swagger-images/ecommerceschema.png)
 
