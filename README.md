@@ -11,7 +11,7 @@ A full-featured eCommerce application built using **Spring Boot**, **Spring Data
 - **Email Notifications** (JavaMail for order confirmations)
 - **Logging & Error Tracking** (Logs email failures and system errors)
 - **User Reviews & Comments** (Users can review and comment on products)
-```md
+  
 ## 📸 Screenshots
 ### **Swagger Documentation **
 ![swagger-images](swagger-images/1.png)
@@ -87,4 +87,3 @@ This project is licensed under the MIT License.
 
 ---
 🚀 Developed by **Mohamed Amgad**
-```
